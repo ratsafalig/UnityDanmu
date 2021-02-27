@@ -1,4 +1,13 @@
 {
-	"name": "ratsafalig.unity.danmu",
-    "autoReferenced": true
+    "name": "ratsafalig.unity.danmu",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
